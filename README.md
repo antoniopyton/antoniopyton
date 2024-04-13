@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="300" src="https://i.seadn.io/gae/MTYG8Qk75X3YFZluS8j1CaUk8EoqG7NhkDf1ogbgmrtpoHtRsfR6cuUKMmNLqYj0234Zx8nsbYKWzGn57GQ6zh4VduFVlMNTHlTUGA?auto=format&dpr=1&w=1000"  />
+<img align="left" height="200" src="https://i.seadn.io/gae/MTYG8Qk75X3YFZluS8j1CaUk8EoqG7NhkDf1ogbgmrtpoHtRsfR6cuUKMmNLqYj0234Zx8nsbYKWzGn57GQ6zh4VduFVlMNTHlTUGA?auto=format&dpr=1&w=1000"  />
 
 ###
 
